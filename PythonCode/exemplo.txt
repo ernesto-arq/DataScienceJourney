@@ -1,0 +1,2 @@
+Esse e um texto para ser salvo no formato txt. 
+ Aqui temos um texto que foi salvo!
